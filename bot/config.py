@@ -3,7 +3,7 @@ import os
 
 class Config:
 
-    BOT_TOKEN = "6169974916:AAFO4oyy5fiYM19VrLiJ0lyc-MN9gCFVgd0"
+    BOT_TOKEN = "5728042800:AAE2XG5GGAlXRUsO-RBgqwUquwnpVJ5TyDo"
 
     SESSION_NAME = "anything"
 
@@ -11,9 +11,9 @@ class Config:
 
     API_HASH = "ee28199396e0925f1f44d945ac174f64"
 
-    CLIENT_ID = "666553822028-v7m6a650upmegb2gam1cns21n5vm34ve.apps.googleusercontent.com"
+    CLIENT_ID = "965168171303-ofu0lvi3a140v2tpu8ej64rf84lhalr0.apps.googleusercontent.com"
 
-    CLIENT_SECRET = "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"
+    CLIENT_SECRET = "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"
 
     BOT_OWNER = "6234365091"
 
